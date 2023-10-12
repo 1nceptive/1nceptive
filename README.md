@@ -19,6 +19,14 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+
+<h2>👨‍🎓 Certifications</h2>
+
+- [IBM CyberSecurity Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/KVP2VXLZFT4N)
+- [TryHackMe PreSecurity Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P5A5IGQRZ6.png)
+  
+
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)

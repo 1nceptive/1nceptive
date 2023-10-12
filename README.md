@@ -5,17 +5,17 @@
 - <b>Windows Defender & Firewall</b>
   - [Configuring and Updating Microsoft Defender](https://github.com/1nceptive/Windows-Defender-Firewall-Lab/tree/main)
   - [Enabling and Configuring Microsoft Firewall on Endpoint](https://github.com/1nceptive/Windows-Defender-Firewall-Lab/tree/main)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+  - 
+- <b>Capturing Network Traffic (TCPdump & Wireshar)</b>
+  - [Analysing Network Traffic with TCPDump](https://www.coursera.org/projects/analyze-network-traffic-with-tcpdump?irclickid=0JyWmH2yaxyPTj3yyYxHdyOLUkFWdGSB8xgh0I0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3632879&utm_content=b2c)
+  - [Capturing Packets with WireShark](https://www.coursera.org/projects/wireshark-for-beginners-capture-packets?irclickid=0JyWmH2yaxyPTj3yyYxHdyOLUkFWdGSF8xgh0I0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3632879&utm_content=b2c)
+  - 
+- <b>Active Directory</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - 
+- <b>Server Logs</b>
+  - [Analysing Windows Server Logs](https://academy.hackthebox.com/course/preview/windows-event-logs--finding-evil?gspk=YWRhbWhhbWRhbjYxMjc&gsxid=5fDO07k02Rf4&pscd=affiliate.hackthebox.com&utm_campaign=%7Baffiliate%7D)
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 

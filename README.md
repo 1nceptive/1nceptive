@@ -1,13 +1,13 @@
 <h1>Hi, I'm Shehryar! <br/><a href="https://github.com/1nceptive">Part-Time Cyber Security Student</a>, <a href="https://www.linkedin.com/in/shehryar-riaz/">Full-Time ICT Professional</a>
 
-<h2> Introduction</h2>
+<h2>✍️ Introduction</h2>
 <b> Hello and welcome to my GitHub portfolio! The primary motivation behind creating this portfolio is to showcase my passion and dedication for cybersecurity. Additionally, I aspire to make a lasting impact on the education of future cybersecurity students. My ultimate goal is to leave a significant mark on the world of cybersecurity, and this portfolio represents the beginning of that journey. </b>
 
-<h2>👨‍💻 Penetration Test Cheatsheet</h2>
+<h2>📝 Penetration Test Cheatsheet</h2>
 
 - [My Full Penetration Test Cheatsheet for Beginners - IN PROGRESS](https://github.com/1nceptive/Pentest-Cheatsheet/tree/main)
 
-<h2>👨‍💻 Cyber Security Projects</h2>
+<h2>🛠️ Cyber Security Projects</h2>
 
 - <b>Windows Defender & Firewall</b>
   - [Configuring and Updating Microsoft Defender](https://github.com/1nceptive/Windows-Defender-Firewall-Lab/tree/main)
@@ -27,14 +27,6 @@
 - [TryHackMe PreSecurity Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P5A5IGQRZ6.png)
   
 
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 

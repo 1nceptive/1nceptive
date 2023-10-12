@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Windows Defender & Firewall</b>
-  - [Configuring and Updating Microsoft Defender](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Enabling and Configuring Microsoft Firewall on Endpoint](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuring and Updating Microsoft Defender](https://github.com/1nceptive/Windows-Defender-Firewall-Lab/tree/main)
+  - [Enabling and Configuring Microsoft Firewall on Endpoint](https://github.com/1nceptive/Windows-Defender-Firewall-Lab/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>

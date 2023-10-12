@@ -16,7 +16,7 @@
   - [Analysing Network Traffic with TCPDump](https://www.coursera.org/projects/analyze-network-traffic-with-tcpdump?irclickid=0JyWmH2yaxyPTj3yyYxHdyOLUkFWdGSB8xgh0I0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3632879&utm_content=b2c)
   - [Capturing Packets with WireShark](https://www.coursera.org/projects/wireshark-for-beginners-capture-packets?irclickid=0JyWmH2yaxyPTj3yyYxHdyOLUkFWdGSF8xgh0I0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3632879&utm_content=b2c)
 - <b>Active Directory</b>
-  - [Active Directory Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Active Directory Lab]()
 - <b>Server Logs</b>
   - [Analysing Windows Server Logs](https://academy.hackthebox.com/course/preview/windows-event-logs--finding-evil?gspk=YWRhbWhhbWRhbjYxMjc&gsxid=5fDO07k02Rf4&pscd=affiliate.hackthebox.com&utm_campaign=%7Baffiliate%7D)
 

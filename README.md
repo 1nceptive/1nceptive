@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Windows Defender</b>
+- <b>Windows Defender & Firewall</b>
   - [Configuring and Updating Microsoft Defender](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Enabling and Configuring Microsoft Firewall on Endpoint](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>

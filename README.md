@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Penetration Test Cheatsheet</h2>
 
-- [My Full Penetration Test Cheatsheet for Beginners](https://github.com/1nceptive/Pentest-Cheatsheet/tree/main)
+- [My Full Penetration Test Cheatsheet for Beginners - IN PROGRESS](https://github.com/1nceptive/Pentest-Cheatsheet/tree/main)
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 

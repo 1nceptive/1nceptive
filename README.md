@@ -1,6 +1,8 @@
 <h1>Hi, I'm Shehryar! <br/><a href="https://github.com/joshmadakor1">Part-Time Cyber Security Student</a>, <a href="https://www.linkedin.com/in/shehryar-riaz/">Full-Time ICT Professional</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Penetration Test Cheatsheet</h2>
+
+<h2>👨‍💻 Cyber Security Projects</h2>
 
 - <b>Windows Defender & Firewall</b>
   - [Configuring and Updating Microsoft Defender](https://github.com/1nceptive/Windows-Defender-Firewall-Lab/tree/main)

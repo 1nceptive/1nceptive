@@ -1,5 +1,8 @@
 <h1>Hi, I'm Shehryar! <br/><a href="https://github.com/joshmadakor1">Part-Time Cyber Security Student</a>, <a href="https://www.linkedin.com/in/shehryar-riaz/">Full-Time ICT Professional</a>
 
+<h2> Introduction</h2>
+<b> Hello and welcome to my GitHub portfolio! The primary motivation behind creating this portfolio is to showcase my passion and dedication for cybersecurity. Additionally, I aspire to make a lasting impact on the education of future cybersecurity students. My ultimate goal is to leave a significant mark on the world of cybersecurity, and this portfolio represents the beginning of that journey. </b>
+
 <h2>👨‍💻 Penetration Test Cheatsheet</h2>
 
 - [My Full Penetration Test Cheatsheet for Beginners - IN PROGRESS](https://github.com/1nceptive/Pentest-Cheatsheet/tree/main)
